@@ -9,7 +9,9 @@ a {
     color: inherit;
     text-decoration: none;
 }
-
+a:hover {  
+    color: red;
+}
 * {
     box-sizing: border-box;
 }
